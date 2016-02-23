@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Denbar]]></title>
         <description><![CDATA[Denbar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/denbar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 23:15:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 23:22:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/denbar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[First Post]]></title>
-            <description><![CDATA[<article><h1>First Post</h1><p>This is a test of the grid site tool.  Trying to make a new website</p></article>]]></description>
-            <link>undefinedfirst-post/index.html</link>
+            <title><![CDATA[Steven's First Post]]></title>
+            <description><![CDATA[<article><h1>Steven's First Post</h1><p>This is a test of the grid site tool.  Trying to make a new website</p></article>]]></description>
+            <link>https://thegrid.ai/denbar/first-post/index.html</link>
             <guid isPermaLink="false">8f5d351f-28e0-47fe-9026-757a87100a4f</guid>
-            <pubDate>Tue, 23 Feb 2016 23:15:34 GMT</pubDate>
+            <pubDate>Tue, 23 Feb 2016 23:22:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
