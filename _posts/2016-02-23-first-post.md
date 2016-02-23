@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-23T23:15:34.264Z'
-dateModified: '2016-02-23T23:15:33.963Z'
-title: First Post
+description: This is just a test
+datePublished: '2016-02-23T23:22:05.591Z'
+dateModified: '2016-02-23T23:22:05.417Z'
+title: "Steven's First Post"
 author: []
+sourcePath: _posts/2016-02-23-first-post.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-23-first-post.md
-published: true
 url: first-post/index.html
 _type: Article
 
