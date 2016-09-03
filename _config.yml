@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Real Estate
+    url: denbarproperties.com
+    type: external
 favicon: null
 title: The Denbar  Group
 description: 'Real Estate, Technology, Consulting'
