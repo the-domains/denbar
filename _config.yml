@@ -1,19 +1,4 @@
-name: Denbar
-favicon: null
-layout_spectrum: 0.5280162980780005
 typography_spectrum: 0.4963097753934562
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -25,4 +10,20 @@ color:
   lightness: 0.25260925851762295
   saturation: 0.9768034641165286
   rhythmicContrast: 0.9793541603721678
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5280162980780005
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Denbar
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: The Denbar  Group
 purpose: []
